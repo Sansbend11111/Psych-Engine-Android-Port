@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				12,
+				2,
 				-6
 			],
 			"anim": "singLEFT",
@@ -25,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
+				-30,
 				-50
 			],
 			"anim": "singDOWN",
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-49,
 				27
 			],
 			"anim": "singUP",
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-38,
+				-48,
 				-7
 			],
 			"anim": "singRIGHT",
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				12,
-				24
+				2,
+				19
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -69,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-11,
+				-35,
 				-19
 			],
 			"anim": "singDOWNmiss",
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-46,
 				27
 			],
 			"anim": "singUPmiss",
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				21
+				-46,
+				22
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,18 +102,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
+				11,
 				18
 			],
 			"anim": "hurt",
@@ -122,20 +111,9 @@
 			"indices": []
 		},
 		{
-			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
 			"loop": false,
 			"offsets": [
-				37,
+				-3,
 				11
 			],
 			"anim": "firstDeath",
@@ -146,8 +124,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				37,
-				5
+				-3,
+				11
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -157,17 +135,28 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				-3,
+				11
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
 			"name": "BF Dead confirm",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-6
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BFdust",
 	"position": [
 		0,
 		350
