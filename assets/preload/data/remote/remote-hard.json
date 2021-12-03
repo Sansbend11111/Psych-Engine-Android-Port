@@ -6282,7 +6282,7 @@
 		"stage": "wii",
 		"needsVoices": true,
 		"validScore": true,
-		"speed": 2.6,
+		"speed": 3.2,
 		"bpm": 195
 	}
 }
