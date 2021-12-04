@@ -1,0 +1,48 @@
+{
+	"storyName": "Corrupted Pico back fight",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Pico",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Cblammed",
+			"Pico-back-fight-one",
+			[
+				120,
+				35,
+				0
+			]
+		],
+		[
+			"Cphilly",
+			"Pico-back-fight-saving",
+			[
+				100,
+				175,
+				0
+			]
+		],
+		[
+			"Cpico",
+			"Pico-back-fight-saving-final",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
