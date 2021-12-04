@@ -909,8 +909,8 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.hideHud;
 		add(scoreTxt);
 
-		creditTxt = new FlxText(876, 620, 348);
-        creditTxt.text = 'Ported by Name';
+creditTxt = new FlxText(876, 620, 348);
+        creditTxt.text = 'Ported by suffer';
         creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT);
         creditTxt.setBorderStyle(OUTLINE, FlxColor.BLACK, 3, 1);       
         creditTxt.scrollFactor.set();
