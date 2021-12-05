@@ -1,0 +1,48 @@
+{
+	"storyName": "funny bars ft.looneydude",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Level Fun",
+			"sunky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Gotsa Go Fest",
+			"sunky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"epic sunkdown",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week Sunk"
+}

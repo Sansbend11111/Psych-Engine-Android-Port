@@ -1,48 +1,22 @@
 {
 	"songs": [
-		[
-			"blue-entertainment",
-			"majin",
-			[
-				2,
-				19,
-				120
-			]
-		],
-		[
-			"remote",
-			"eteled",
-			[
-				178,
-				187,
-				203
-			]
-		],
-		[
-			"killing-spree",
-			"dustsans",
-			[
-				102,
-				102,
-				102
-			]
-		]
+		["Bopeebo", "dad", [146, 113, 253]],
+		["Fresh", "dad", [146, 113, 253]],
+		["Dad Battle", "dad", [146, 113, 253]]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "nothing",
+
 	"weekCharacters": [
-		"",
-		"week1dudes",
-		""
+		"dad",
+		"bf",
+		"gf"
 	],
-	"storyName": "week 1",
-	"weekName": "Week 1",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
 }
