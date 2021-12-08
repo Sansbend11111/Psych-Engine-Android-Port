@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tankman Day 4 UC.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tankman Idle Dance instance0000" x="0" y="0" width="463" height="592" frameX="-11" frameY="-11" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0001" x="463" y="0" width="463" height="592" frameX="-11" frameY="-11" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0002" x="926" y="0" width="471" height="586" frameX="0" frameY="-17" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0003" x="1397" y="0" width="471" height="586" frameX="0" frameY="-17" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0004" x="1868" y="0" width="465" height="591" frameX="-5" frameY="-13" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0005" x="2333" y="0" width="465" height="591" frameX="-5" frameY="-13" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0006" x="2798" y="0" width="450" height="603" frameX="-16" frameY="-1" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0007" x="3248" y="0" width="450" height="603" frameX="-16" frameY="-1" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0008" x="0" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0009" x="450" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0010" x="900" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0011" x="1350" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0012" x="1800" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0013" x="0" y="0" width="463" height="592" frameX="-11" frameY="-11" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0014" x="463" y="0" width="463" height="592" frameX="-11" frameY="-11" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0015" x="926" y="0" width="471" height="586" frameX="0" frameY="-17" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0016" x="1397" y="0" width="471" height="586" frameX="0" frameY="-17" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0017" x="1868" y="0" width="465" height="591" frameX="-5" frameY="-13" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0018" x="2333" y="0" width="465" height="591" frameX="-5" frameY="-13" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0019" x="2798" y="0" width="450" height="603" frameX="-16" frameY="-1" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0020" x="3248" y="0" width="450" height="603" frameX="-16" frameY="-1" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0021" x="0" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0022" x="450" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0023" x="900" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0024" x="1350" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0025" x="1350" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0026" x="1350" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0027" x="0" y="0" width="463" height="592" frameX="-11" frameY="-11" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0028" x="463" y="0" width="463" height="592" frameX="-11" frameY="-11" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0029" x="926" y="0" width="471" height="586" frameX="0" frameY="-17" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0030" x="1397" y="0" width="471" height="586" frameX="0" frameY="-17" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0031" x="1868" y="0" width="465" height="591" frameX="-5" frameY="-13" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0032" x="2333" y="0" width="465" height="591" frameX="-5" frameY="-13" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0033" x="2798" y="0" width="450" height="603" frameX="-16" frameY="-1" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0034" x="3248" y="0" width="450" height="603" frameX="-16" frameY="-1" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0035" x="0" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0036" x="450" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0037" x="900" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0038" x="1350" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0039" x="1800" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+	<SubTexture name="Tankman Idle Dance instance0040" x="1800" y="603" width="450" height="604" frameX="-16" frameY="0" frameWidth="474" frameHeight="604"/>
+</TextureAtlas>
