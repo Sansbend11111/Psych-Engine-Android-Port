@@ -2,63 +2,63 @@
 	"animations": [
 		{
 			"offsets": [
-				155,
-				80
+				-86,
+				-52
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "Tankman Idle Dance"
 		},
 		{
 			"offsets": [
-				145,
-				74
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				110,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				90,
-				107
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				92,
-				73
+				-103,
+				-80
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "Tankman Note Left instance"
 		},
 		{
 			"offsets": [
-				27,
-				29
+				-28,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tankman DOWN note instance"
+		},
+		{
+			"offsets": [
+				-41,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tankman UP note instance"
+		},
+		{
+			"offsets": [
+				-5,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tankman Right Note instance"
+		},
+		{
+			"offsets": [
+				7,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				137,
-				75
+				-3,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -197,15 +197,59 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-36
+			],
+			"anim": "PRETTY GOOD tankman",
+			"fps": 24,
+			"name": "PRETTY GOOD tankman",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-10
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "TANKMAN LAUGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-60
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "TANKMAN UGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-58
+			],
+			"anim": "TANKMAN UGH",
+			"fps": 24,
+			"name": "TANKMAN UGH",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/tankman",
 	"position": [
-		0,
-		350
+		10,
+		140
 	],
-	"healthicon": "bf",
+	"healthicon": "tankman",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
@@ -213,8 +257,8 @@
 		209
 	],
 	"camera_position": [
-		110,
-		-40
+		120,
+		80
 	],
 	"sing_duration": 4,
 	"scale": 1
