@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlackRun.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="344440000" x="0" y="0" width="222" height="173"/>
+	<SubTexture name="Blood0000" x="222" y="0" width="108" height="122"/>
+	<SubTexture name="DOWN0000" x="330" y="0" width="743" height="864" frameX="0" frameY="0" frameWidth="812" frameHeight="896"/>
+	<SubTexture name="DOWN0001" x="1073" y="0" width="793" height="841" frameX="-19" frameY="-23" frameWidth="812" frameHeight="896"/>
+	<SubTexture name="DOWN0002" x="1866" y="0" width="665" height="889" frameX="-49" frameY="-7" frameWidth="812" frameHeight="896"/>
+	<SubTexture name="SCREAM0000" x="2531" y="0" width="848" height="865" frameX="-117" frameY="-11" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SCREAM0001" x="0" y="889" width="878" height="896" frameX="-123" frameY="-49" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SCREAM0002" x="878" y="889" width="965" height="826" frameX="0" frameY="0" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SCREAM0003" x="1843" y="889" width="863" height="808" frameX="-58" frameY="-43" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SCREAM0004" x="2706" y="889" width="895" height="794" frameX="-87" frameY="-69" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SCREAM0005" x="2531" y="0" width="848" height="865" frameX="-117" frameY="-11" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SCREAM0006" x="0" y="1785" width="848" height="865" frameX="-117" frameY="-11" frameWidth="1001" frameHeight="945"/>
+	<SubTexture name="SUS ARRIBA0000" x="848" y="1785" width="690" height="843" frameX="-43" frameY="-9" frameWidth="736" frameHeight="887"/>
+	<SubTexture name="SUS ARRIBA0001" x="1538" y="1785" width="694" height="850" frameX="-34" frameY="-2" frameWidth="736" frameHeight="887"/>
+	<SubTexture name="SUS ARRIBA0002" x="2232" y="1785" width="736" height="887"/>
+	<SubTexture name="boca abierta lol0000" x="2968" y="1785" width="454" height="465"/>
+	<SubTexture name="conitolol0000" x="3422" y="1785" width="283" height="347"/>
+	<SubTexture name="cuerpo idle amogus0000" x="0" y="2672" width="602" height="669" frameX="0" frameY="-4" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo idle amogus0001" x="602" y="2672" width="583" height="669" frameX="-19" frameY="-4" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo idle amogus0002" x="1185" y="2672" width="466" height="699" frameX="-136" frameY="-4" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo idle amogus0003" x="1651" y="2672" width="497" height="679" frameX="-105" frameY="-4" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo idle amogus0004" x="2148" y="2672" width="508" height="654" frameX="-94" frameY="-4" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo idle amogus0005" x="2656" y="2672" width="655" height="649" frameX="-19" frameY="-4" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo idle amogus0006" x="3311" y="2672" width="634" height="657" frameX="-29" frameY="0" frameWidth="674" frameHeight="703"/>
+	<SubTexture name="cuerpo izquierda idle amogus copia0000" x="0" y="3371" width="459" height="328"/>
+	<SubTexture name="derecha0000" x="459" y="3371" width="936" height="804" frameX="0" frameY="-81" frameWidth="1178" frameHeight="915"/>
+	<SubTexture name="derecha0001" x="1395" y="3371" width="997" height="845" frameX="-36" frameY="-40" frameWidth="1178" frameHeight="915"/>
+	<SubTexture name="derecha0002" x="2392" y="3371" width="1093" height="915" frameX="-85" frameY="0" frameWidth="1178" frameHeight="915"/>
+	<SubTexture name="detalle cuchillo0000" x="3485" y="3371" width="341" height="188"/>
+	<SubTexture name="hAND0000" x="3826" y="3371" width="221" height="225"/>
+	<SubTexture name="izquierda0000" x="0" y="4286" width="778" height="868" frameX="-47" frameY="0" frameWidth="825" frameHeight="898"/>
+	<SubTexture name="izquierda0001" x="778" y="4286" width="765" height="866" frameX="-36" frameY="-2" frameWidth="825" frameHeight="898"/>
+	<SubTexture name="izquierda0002" x="1543" y="4286" width="795" height="896" frameX="0" frameY="-2" frameWidth="825" frameHeight="898"/>
+	<SubTexture name="lengua 10000" x="2338" y="4286" width="31" height="463"/>
+	<SubTexture name="lengua 20000" x="2369" y="4286" width="159" height="353"/>
+	<SubTexture name="mano cuchillo amogusa0000" x="2528" y="4286" width="377" height="199"/>
+	<SubTexture name="mano mic 20000" x="2905" y="4286" width="175" height="165"/>
+	<SubTexture name="mano mic amogus0000" x="3080" y="4286" width="200" height="174"/>
+	<SubTexture name="mirada lol o.o0000" x="3280" y="4286" width="182" height="249"/>
+	<SubTexture name="mochila amogus0000" x="3462" y="4286" width="276" height="378"/>
+	<SubTexture name="sus idle0000" x="0" y="5182" width="1097" height="873" frameX="0" frameY="-15" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="sus idle0001" x="1097" y="5182" width="1092" height="880" frameX="-17" frameY="-8" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="sus idle0002" x="2189" y="5182" width="1048" height="914" frameX="-75" frameY="-4" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="sus idle0003" x="0" y="6096" width="1014" height="898" frameX="-136" frameY="0" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="sus idle0004" x="1014" y="6096" width="1105" height="864" frameX="-94" frameY="-9" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="sus idle0005" x="2119" y="6096" width="1178" height="836" frameX="-2" frameY="-32" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="sus idle0006" x="0" y="6994" width="1129" height="857" frameX="-2" frameY="-15" frameWidth="1199" frameHeight="918"/>
+	<SubTexture name="visor amogus0000" x="1129" y="6994" width="317" height="190"/>
+	<SubTexture name="visorxxxxxxxd0000" x="1446" y="6994" width="299" height="171"/>
+</TextureAtlas>
