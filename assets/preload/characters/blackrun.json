@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				280,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sus idle"
+		},
+		{
+			"offsets": [
+				200,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "izquierda"
+		},
+		{
+			"offsets": [
+				160,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "derecha"
+		},
+		{
+			"offsets": [
+				130,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				154,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SUS ARRIBA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BlackRun",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		80
+	],
+	"camera_position": [
+		230,
+		510
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
