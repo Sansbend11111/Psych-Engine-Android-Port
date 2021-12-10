@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ok so i have finished your song, are you gonna kill us?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whiteimpostor",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "actually, i have an better idea."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "wait what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU said you would kill me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "but at least i didnt die haha!! my girlfriend is always mine!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "whiteimpostor",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "of course, of course. your probably gonna die like in a few minutes."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what do you mean??? im the best rapper in all universe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whiteimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'm teaming up with black bitch."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "OH FUCK"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wassup cowards."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i dont wanna die now!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "whiteimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sorry but your life may end here, depends on how good you are."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ok well im the best rapper of all time!! (2020- 2021) so i wont die :D"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whatever............................... "
+		}
+	]
+}
