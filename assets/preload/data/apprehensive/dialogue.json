@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OMG BRO did you just kill that CREWMATE?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whiteImpostor",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "that's the point of among us lmao, it's about killing crewmates."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was actually the first crewmate we've seen so far..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "yea man why would you do that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whiteimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "y'all are next lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck."
+		}
+	]
+}
