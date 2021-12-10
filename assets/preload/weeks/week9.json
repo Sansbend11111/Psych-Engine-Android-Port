@@ -1,0 +1,30 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"weekBackground": "airship",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Apprehensive-New",
+			"white",
+			[
+				208,
+				229,
+				254
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week???"
+}

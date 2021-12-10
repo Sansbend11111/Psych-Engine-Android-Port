@@ -1,0 +1,30 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"weekBackground": "defeat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Run-Away",
+			"black",
+			[
+				59,
+				30,
+				74
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week???"
+}

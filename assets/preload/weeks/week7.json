@@ -1,48 +1,57 @@
 {
-	"storyName": "Corrupted Pico back fight",
+	"storyName": "AIRSHIP",
 	"hideFreeplay": false,
-	"weekBackground": "philly",
-	"weekBefore": "tutorial",
+	"weekBackground": "airship",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"Pico",
+		"impostorr",
 		"bf",
-		""
+		"gf"
 	],
 	"songs": [
 		[
-			"Cblammed",
-			"Pico-back-fight-one",
+			"Watch-Out",
+			"yellow",
 			[
-				120,
-				35,
-				0
-			]
-		],
-		[
-			"Cphilly",
-			"Pico-back-fight-saving",
-			[
-				100,
-				175,
-				0
-			]
-		],
-		[
-			"Cpico",
-			"Pico-back-fight-saving-final",
-			[
-				0,
 				255,
-				0
+				231,
+				112
+			]
+		],
+		[
+			"D'low",
+			"yellow",
+			[
+				255,
+				231,
+				112
+			]
+		],
+		[
+			"Apprehensive",
+			"white",
+			[
+				208,
+				229,
+				254
+			]
+		],
+		[
+			"Double Trouble",
+			"impostors",
+			[
+				255,
+				160,
+				34
 			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "Custom Week"
+	"weekName": "WeekAirship"
 }
