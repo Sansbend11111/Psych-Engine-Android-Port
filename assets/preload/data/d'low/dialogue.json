@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "yellowcrewmate",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "nice job on that song! i knew you could do it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ty, but i think that was a little too easy for me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you could do better, you know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowcrewmate",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, well I can definitely make it harder for you. This one will be more of a challenge"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "that's what i like!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay, GF please start the song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay!"
+		}
+	]
+}
