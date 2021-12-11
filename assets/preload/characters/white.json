@@ -1,63 +1,96 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				107,
-				-325
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "White Left"
-		},
-		{
-			"offsets": [
-				-110,
-				-340
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "White Right"
-		},
-		{
-			"offsets": [
-				90,
-				-322
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "White Up"
-		},
-		{
-			"offsets": [
-				50,
-				-379
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "White Down"
-		},
-		{
 			"offsets": [
 				100,
 				-340
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
+			"fps": 24,
+			"name": "impostor idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-343
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "imposter left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-330
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "impostor right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-360
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-269
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostor up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-340
+			],
 			"indices": [],
-			"name": "White Idle"
+			"fps": 24,
+			"anim": "singSLICE",
+			"loop": false,
+			"name": "impostor slice"
+		},
+		{
+			"offsets": [
+				150,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singVENT",
+			"loop": false,
+			"name": "impostor vent"
+		},
+		{
+			"offsets": [
+				150,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singVENTLOOP",
+			"loop": false,
+			"name": "impostor ventLOOP"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/white_assets",
+	"no_antialiasing": false,
+	"image": "characters/white",
 	"position": [
 		0,
 		0
@@ -74,5 +107,5 @@
 		300
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 1.2
 }
