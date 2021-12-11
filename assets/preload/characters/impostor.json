@@ -3,86 +3,75 @@
 		{
 			"loop": false,
 			"offsets": [
-				419,
-				20
+				-140,
+				-20
 			],
-			"anim": "singUP-alt",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "SCREAM",
+			"name": "Red Down Pose",
 			"indices": []
 		},
 		{
 			"loop": true,
 			"offsets": [
-				400,
-				-50
+				-5,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "sus idle",
+			"name": "Red Idle Dance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				511,
-				-36
+				105,
+				10
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "izquierda",
+			"name": "Red Left SIng",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				205,
-				-70
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				165,
-				-60
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "derecha",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				440,
-				55
+				95,
+				50
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "SUS ARRIBA",
+			"name": "Red Pose Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Red Sing Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Black",
+	"image": "characters/red_assets",
 	"position": [
 		0,
-		0
+		350
 	],
-	"healthicon": "black",
+	"healthicon": "impostor",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		0,
-		0
+		255,
+		15,
+		40
 	],
 	"camera_position": [
-		-70,
-		200
+		-10,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -3,77 +3,66 @@
 		{
 			"loop": false,
 			"offsets": [
-				419,
-				20
-			],
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "SCREAM",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				400,
-				-50
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "sus idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				511,
-				-36
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "izquierda",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				205,
-				-70
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				165,
-				-60
+				-190,
+				17
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "derecha",
+			"name": "portable pickle RIGHT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				440,
-				55
+				-178,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "portable pickle dOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "portable pickle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				20
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "SUS ARRIBA",
+			"name": "portable pickle up",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-190,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "portable pickle idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Black",
+	"image": "characters/pickle",
 	"position": [
 		0,
-		0
+		350
 	],
-	"healthicon": "black",
+	"healthicon": "",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,
@@ -81,8 +70,8 @@
 		0
 	],
 	"camera_position": [
-		-70,
-		200
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

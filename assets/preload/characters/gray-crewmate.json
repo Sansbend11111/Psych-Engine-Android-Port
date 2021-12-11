@@ -3,76 +3,87 @@
 		{
 			"offsets": [
 				0,
-				-290
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": "impostor idle"
+		},
+		{
+			"offsets": [
+				160,
+				-365
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "yellow idle"
+			"name": "impostor idle"
 		},
 		{
 			"offsets": [
-				5,
-				-374
+				400,
+				-356
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "yellow left"
+			"name": "imposter left"
 		},
 		{
 			"offsets": [
-				49,
-				-333
+				210,
+				-371
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "yellow right"
+			"name": "impostor right"
 		},
 		{
 			"offsets": [
-				75,
-				-317
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "yellow up"
-		},
-		{
-			"offsets": [
-				-45,
-				-385
+				280,
+				-382
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "yellow down"
+			"name": "impostor down"
+		},
+		{
+			"offsets": [
+				294,
+				-258
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "impostor up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Yellow",
+	"image": "characters/gray-crewmate",
 	"position": [
-		0,
+		150,
 		0
 	],
-	"healthicon": "yellow",
+	"healthicon": "gray-crewmate",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		225,
-		102
+		103,
+		103,
+		103
 	],
 	"camera_position": [
-		-90,
-		390
+		-300,
+		350
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }

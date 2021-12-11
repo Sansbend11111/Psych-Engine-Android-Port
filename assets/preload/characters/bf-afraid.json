@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				107,
-				-325
+				-155,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "White Left"
+			"name": "BF NOTE LEFT concerned0"
 		},
 		{
 			"offsets": [
-				-110,
-				-340
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "White Right"
-		},
-		{
-			"offsets": [
-				90,
-				-322
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "White Up"
-		},
-		{
-			"offsets": [
-				50,
-				-379
+				-180,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "White Down"
+			"name": "BF NOTE DOWN concerned0"
 		},
 		{
 			"offsets": [
-				100,
-				-340
+				-199,
+				27
 			],
-			"loop": true,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP concerned0"
+		},
+		{
+			"offsets": [
+				-210,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT concerned0"
+		},
+		{
+			"offsets": [
+				-165,
+				0
+			],
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "White Idle"
+			"loop": true,
+			"name": "BF Idle Dance Concerned"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/white_assets",
+	"no_antialiasing": false,
+	"image": "characters/Concerned BF Sprites",
 	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
 		0,
 		0
 	],
-	"healthicon": "white",
-	"flip_x": false,
-	"healthbar_colors": [
-		220,
-		235,
-		255
-	],
-	"camera_position": [
-		-120,
-		300
-	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 1
 }

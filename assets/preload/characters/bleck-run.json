@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SUS IDLE RUN"
+		},
+		{
+			"offsets": [
+				7,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SUS RUN LEFT"
+		},
+		{
+			"offsets": [
+				84,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SUS RUN UP"
+		},
+		{
+			"offsets": [
+				-79,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SUS RUN DOWN"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-95,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SUS RUN RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wowiez",
+	"position": [
+		-570,
+		-110
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		40
+	],
+	"camera_position": [
+		120,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

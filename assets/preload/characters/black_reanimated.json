@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				-290
+				65,
+				280
 			],
 			"loop": true,
-			"fps": 24,
+			"fps": 16,
 			"anim": "idle",
 			"indices": [],
-			"name": "yellow idle"
+			"name": "BG_Black idle"
 		},
 		{
 			"offsets": [
-				5,
-				-374
+				117,
+				280
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
+			"fps": 16,
+			"anim": "down",
 			"indices": [],
-			"name": "yellow left"
+			"name": "BG_Black down"
 		},
 		{
 			"offsets": [
-				49,
-				-333
+				160,
+				280
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
+			"fps": 16,
+			"anim": "left",
 			"indices": [],
-			"name": "yellow right"
+			"name": "BG_Black left"
 		},
 		{
 			"offsets": [
-				75,
-				-317
+				165,
+				305
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
+			"fps": 16,
+			"anim": "right",
 			"indices": [],
-			"name": "yellow up"
+			"name": "BG_Black right"
 		},
 		{
 			"offsets": [
-				-45,
-				-385
+				-55,
+				495
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
+			"fps": 16,
+			"anim": "up",
 			"indices": [],
-			"name": "yellow down"
+			"name": "BG_Black up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Yellow",
+	"image": "characters/BG_Black",
 	"position": [
 		0,
-		0
+		350
 	],
-	"healthicon": "yellow",
-	"flip_x": false,
+	"healthicon": "black",
+	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		225,
-		102
+		40,
+		40,
+		40
 	],
 	"camera_position": [
-		-90,
-		390
+		-10,
+		-200
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1.1
 }

@@ -1,89 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				419,
-				20
-			],
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "SCREAM",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [
-				400,
-				-50
+				0,
+				-290
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "sus idle",
+			"name": "yellow idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				511,
-				-36
+				65,
+				-360
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "izquierda",
+			"name": "yellow left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				205,
-				-70
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				165,
-				-60
+				90,
+				-310
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "derecha",
+			"name": "yellow right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				440,
-				55
+				80,
+				-305
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "SUS ARRIBA",
+			"name": "yellow up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-359
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yellow down",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Black",
+	"image": "characters/Yellow",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "black",
+	"healthicon": "yellow",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		0,
-		0
+		255,
+		225,
+		102
 	],
 	"camera_position": [
-		-70,
-		200
+		-90,
+		310
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.2
 }

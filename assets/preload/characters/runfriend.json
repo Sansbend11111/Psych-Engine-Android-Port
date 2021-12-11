@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				-290
+				-12,
+				0
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "yellow idle"
+			"name": "RUN IDLE"
 		},
 		{
 			"offsets": [
-				5,
-				-374
+				-8,
+				9
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "yellow left"
-		},
-		{
-			"offsets": [
-				49,
-				-333
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "yellow right"
-		},
-		{
-			"offsets": [
-				75,
-				-317
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "yellow up"
-		},
-		{
-			"offsets": [
-				-45,
-				-385
-			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "yellow down"
+			"name": "RUN DOWN"
+		},
+		{
+			"offsets": [
+				-3,
+				-18
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RUN RIGHT"
+		},
+		{
+			"offsets": [
+				-9,
+				4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RUN LEFT"
+		},
+		{
+			"offsets": [
+				-41,
+				14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RUN UP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Yellow",
+	"image": "characters/bfRun",
 	"position": [
-		0,
-		0
+		60,
+		300
 	],
-	"healthicon": "yellow",
+	"healthicon": "bf",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		225,
-		102
+		15,
+		140,
+		255
 	],
 	"camera_position": [
-		-90,
-		390
+		40,
+		10
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 0.9
 }
