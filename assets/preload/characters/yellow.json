@@ -1,63 +1,107 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				0,
-				-290
+				40,
+				-190
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "yellow idle"
+			"fps": 24,
+			"name": "impostor idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				5,
-				-374
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				40,
+				-193
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "yellow left"
+			"fps": 24,
+			"name": "imposter left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				49,
-				-333
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				110,
+				-200
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "yellow right"
+			"fps": 24,
+			"name": "impostor right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				75,
-				-317
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "yellow up"
-		},
-		{
 			"offsets": [
-				-45,
-				-385
+				140,
+				-220
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-179
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-190
+			],
+			"anim": "singALT",
+			"fps": 24,
+			"name": "impostor alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				516,
+				-190
+			],
+			"anim": "singDEAD",
+			"fps": 24,
+			"name": "impostor dead",
+			"indices": []
+		},
+		{
+			"offsets": [
+				516,
+				-190
+			],
 			"indices": [],
-			"name": "yellow down"
+			"fps": 24,
+			"anim": "singDEADLOOP",
+			"loop": false,
+			"name": "impostor deadLOOP"
+		},
+		{
+			"offsets": [
+				110,
+				-190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singALTLOOP",
+			"loop": false,
+			"name": "impostor altLOOP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Yellow",
+	"image": "characters/yellow",
 	"position": [
 		0,
 		0
@@ -66,13 +110,13 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		225,
-		102
+		235,
+		95
 	],
 	"camera_position": [
-		-90,
-		390
+		-70,
+		200
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }
