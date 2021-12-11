@@ -1,0 +1,39 @@
+{
+	"storyName": "gray's week",
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blackout",
+			"gray-crewmate",
+			[
+				80,
+				0,
+				93
+			]
+		],
+		[
+			"Blackout-alt",
+			"gray",
+			[
+				40,
+				0,
+				53
+			]
+		]
+	],
+	"weekName": "..."
+}

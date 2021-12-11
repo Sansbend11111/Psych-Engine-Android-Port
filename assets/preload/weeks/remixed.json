@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"defeat-remixed",
+			"black",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "defeat-remixed",
+	"weekName": "defeat remix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

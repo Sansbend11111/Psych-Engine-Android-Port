@@ -1,0 +1,39 @@
+{
+	"storyName": "black's week",
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"defeat",
+			"black",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"danger",
+			"black",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"weekName": "sus"
+}

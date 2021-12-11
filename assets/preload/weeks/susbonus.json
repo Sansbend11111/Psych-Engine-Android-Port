@@ -1,0 +1,30 @@
+{
+	"storyName": "sus",
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"assets",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"sus-slaught",
+			"impostor",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "sus"
+}

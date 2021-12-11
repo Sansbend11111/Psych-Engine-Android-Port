@@ -1,0 +1,39 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"double-trouble",
+			"impostor",
+			[
+				255,
+				60,
+				80
+			]
+		],
+		[
+			"double-kill",
+			"white",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "doubleweeks"
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"testing-room",
+			"test",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Testing Room",
+	"weekName": "Vs Impostor Fanmade Testing Room",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
