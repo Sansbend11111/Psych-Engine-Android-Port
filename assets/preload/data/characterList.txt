@@ -5,7 +5,15 @@ garcellotired
 white
 no-gf
 impostors
-blackrun
+black-run
+gray-crewmate
+gray
+nothing
+impostor
+green
+black_bg
+bf-afraid
+runfriend
 black
 bfrun
 dad
